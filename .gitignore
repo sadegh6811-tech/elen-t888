@@ -1,0 +1,26 @@
+# Web & Node.js
+auth-portal/
+auth-portal-clean/
+node_modules/
+dist/
+*.tgz
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Backups & Logs
+*.bak*
+*.backup*
+*.log
+
+# Core Proprietary Engines (Do Not Upload)
+engine_*.py
+v13_core.py
+security_*.py
+shadow_*.py
+public_proxy.py
+public_proxy.py.*
+lab_1024d_*.py
